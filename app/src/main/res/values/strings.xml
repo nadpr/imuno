@@ -13,8 +13,9 @@
     <string name="next">NEXT</string>
     <string name="skip">SKIP</string>
     <string name="start">GOT IT</string>
-    <string name="slide_1_title">Selamat Datang!</string>
-    <string name="slide_1_desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. </string>
+    <string name="slide_1_title">Selamat Datang</string>
+    <string name="slide_1_desc">Imuno hadir sebagai sahabat pengingat ibu</string>tentang imunisasi sang buah hati
+    <string name="slide_1a_desc">tentang imunisasi sang buah hati</string>
 
     <string name="slide_2_title">Movie Tickets</string>
     <string name="slide_2_desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. </string>
